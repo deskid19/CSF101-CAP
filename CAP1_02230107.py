@@ -1,15 +1,16 @@
 ################################
-# Your Name
-# Your Section
-# Your Student ID Number
+# Sangay Deki
+# 1ECE
+# 02230107
 ################################
 # REFERENCES
-# Links that you referred while solving
-# http://link.to.an.article/video.com
+#https://www.youtube.com/watch?v=5cU1ILGy6dM
+#https://stackoverflow.com/questions/70781614/python-rock-paper-scissors-game
+#https://www.youtube.com/watch?v=y5gc-y2b5NY
 ################################
 # SOLUTION
 # Your Solution Score:
-# Put your number here
+# 50169
 ################################
 
 def read_input(input_file):
